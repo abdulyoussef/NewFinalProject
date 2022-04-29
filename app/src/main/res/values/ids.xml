@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvPosts" type="id" />
+    <item name="fabCreate" type="id" />
+    <item name="btnPickImage" type="id" />
+    <item name="imageView" type="id" />
+    <item name="etDescription" type="id" />
+    <item name="btnSubmit" type="id" />
+</resources>

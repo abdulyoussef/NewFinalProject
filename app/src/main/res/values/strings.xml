@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewFinalProject</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+</resources>
